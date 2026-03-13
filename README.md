@@ -93,3 +93,31 @@ Where should the business invest, optimize pricing, or reduce inventory exposure
 
 **Maintain Steady Categories**  
 - Maintain current strategy for Socks & Underwear and Men’s Tees.
+
+---
+
+## What This Project Demonstrates
+
+- Ability to clean, structure, and validate a retail dataset in Excel.  
+- Use of pivot tables, calculated fields, and KPI logic to answer business questions.  
+- Skill in interpreting retail metrics such as margin, sell‑through, weeks of supply, and profit contribution.  
+- Clear communication of insights through charts, summaries, and structured recommendations.  
+- Professional organization of an analytics project in a GitHub‑ready format.
+
+---
+
+## Future Improvements
+
+- Add a Power BI dashboard version of the analysis.  
+- Expand the dataset to include multiple weeks for trend analysis.  
+- Add forecasting models for demand, revenue, or inventory needs.  
+- Include SQL or Python versions of the analysis for cross‑tool comparison.  
+- Add automated data quality checks or Excel macros for repeatability.
+
+---
+
+## Full Excel File
+
+For an in‑depth look at the dataset, pivots, and calculations, download the full Excel file:
+
+**[retail_performance_project.xlsx](data/retail_performance_project.xlsx)**
