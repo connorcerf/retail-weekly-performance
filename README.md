@@ -18,7 +18,7 @@ ChatGPT (synthetic dataset generation)
 - Cleaned and standardized text and currency fields  
 - Validated numeric fields  
 - Ensured consistent category naming  
-- Added calculated fields (GrossProfit_Week, SellThroughPct, WeeksOfSupply)
+- Added calculated field (GrossProfit_Week)
 
 ---
 
