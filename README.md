@@ -11,7 +11,7 @@ SKU, Category, Subcategory, Season, LaunchYear, LifecycleStage, OriginalPrice, C
 
 **Tools used:**  
 Excel (data cleaning, pivots, charts)  
-ChatGPT (synthetic dataset generation)
+Artificial Intelligence (synthetic dataset generation)
 
 **Data preparation steps:**  
 - Removed duplicates  
